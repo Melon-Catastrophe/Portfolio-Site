@@ -5,12 +5,6 @@
 		$header = $('#header'),
 		$banner = $('#banner');
 
-    
-    // Function to navigate to the home page.
-    function GoToHomePage() {
-        window.location = "/";
-    }
-
 
 	// Breakpoints.
 		breakpoints({
